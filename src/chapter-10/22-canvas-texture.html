@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Example 10.22 - Canvas Texture</title>
+    <script type="text/javascript" charset="UTF-8" src="../../libs/three/three.js"></script>
+    <script type="text/javascript" charset="UTF-8" src="../../libs/three/controls/TrackballControls.js"></script>
+    <script type="text/javascript" src="../../libs/util/Stats.js"></script>
+    <script type="text/javascript" src="../../libs/util/dat.gui.js"></script>
+    <link href="../../libs/other/literally/css/literally.css" rel="stylesheet">
+    <script type="text/javascript" src="../../libs/other/literally/jquery-1.8.2.js"></script>
+    <script type="text/javascript" src="../../libs/other/literally/underscore-1.4.2.js"></script>
+    <script type="text/javascript" src="../../libs/other/literally/js/literallycanvas.js"></script>
+
+    <script type="text/javascript" src="../js/util.js"></script>
+    <script type="text/javascript" src="./js/10-22.js"></script>
+    <script type="text/javascript" src="./js/util.js"></script>
+    <link rel="stylesheet" href="../../css/default.css">
+
+    <style>
+        .fs-container {
+            width: 300px;
+            height: 300px;
+            margin: auto;
+            bottom: 20px;
+            position: absolute;
+            x: 0;
+            y: 0;
+        }
+
+        #canvas-output {
+            width: 300px;
+            height: 300px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="fs-container">
+        <div id="canvas-output" style="float:left">
+        </div>
+    </div>
+            
+    <div id="webgl-output"></div>
+    <script type="text/javascript"> (function () { init() })(); </script>
+</body>
+</html>
