@@ -49,7 +49,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| All      | The ideal target audience for this book would be JavaScript developers who who want to learn how to use the Three.js library    | Available for all major operating systems |
+| All      | Text Editor (see instructions in chapter 1)    | Available for all major operating systems |
 | All        |Modern Web Browser                 | Available for all major operating systems|
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/LearnThreeDotjsThirdEdition_ColorImages.pdf).
@@ -60,7 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * JavaScript and JSON Essentials - Second Edition [[Packt]](https://www.packtpub.com/web-development/javascript-and-json-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788624701) [[Amazon]](https://www.amazon.com/dp/178862470X)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Jos Dirksen**
 Jos Dirksen has worked as a software developer and architect for more than a decade. He has a lot of experience in a large range of technologies, ranging from backend technologies, such as Java and Scala, to frontend development using HTML5, CSS, and JavaScript. Besides working with these technologies, Jos also regularly speaks at conferences and likes to write about new and interesting technologies on his blog. He also likes to experiment with new technologies and see how they can best be used to create beautiful data visualizations.
 
