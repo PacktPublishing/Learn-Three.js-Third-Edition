@@ -43,7 +43,7 @@ The code will look like the following:
 **Following is what you need for this book:**
 The ideal target audience for this book would be JavaScript developers who who want to learn how to use the Three.js library.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
