@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learn Three.js - Third Edition	
 
 <a href="https://www.packtpub.com/web-development/learn-threejs-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788833288"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788833288.png" alt="Learn Three.js - Third Edition" height="256px" align="right"></a>
